@@ -1,6 +1,14 @@
-## ***Disclamier: I am not "bigboitaj2005tajypoo"***
-
 Hello! Just a site setup for [Tector](https://twitter.com/t3ctor), nice to see you here, here's some links to put you in the correct spot!
 
-- Twitter: [T3ctor](https://twitter.com/t3ctor)
-- CH1 Gateway: [Discord Link](https://tajypoo.com/gateway)
+##### Twitter: [t3ctor on X](https://twitter.com/t3ctor)
+##### Discord Server: [Chapter 1 Gateway](https://tajypoo.com/gateway)
+##### Artstation: [t3ctor on Artstation](https://artstation.com/t3ctor)
+
+### PRICES
+[DM me](https://twitter.com/t3ctor) for more information regarding commissions.
+- Small Level: $450 ❤️
+- Medium Size Level: $650 🔥
+- Large Level: $950 👑
+
+Payment method is through PayPal, or a % of earnings. 💰
+> If you are interested, I looking forward to working with you! ❤️
