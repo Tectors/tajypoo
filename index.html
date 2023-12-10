@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="shortcut icon" type="image/x-icon" href="tajypoo.png">
+    <title>BigBoiTaj2005 (TajyPoo)</title>
+    <style>
+        @font-face {
+            font-family: Whitney;
+            font-style: normal;
+            font-weight: 500;
+            src: url(whitney-normal.woff2) format("woff2")
+        }
+
+        @font-face {
+            font-family: Whitney;
+            font-style: normal;
+            font-weight: 700;
+            src: url(whitney-bold.woff2) format("woff2")
+        }
+
+        body {
+            background: #36393f;
+            font-family: Whitney;
+            font-weight: 500;
+            margin: 0px;
+        }
+
+        div {
+            color: hsla(0, 0%, 100%, .8);
+            font-size: 35px;
+            position: absolute;
+            width: fit-content;
+            transform: translate(-50%, -50%);
+            left: 50%;
+            top: 50%;
+        }
+
+        b {
+            font-weight: 700
+        }
+
+        img {
+            padding: 3px 15px
+        }
+
+        @media (prefers-color-scheme: light) {
+            body {
+                background: #fff;
+            }
+
+            div {
+                color: hsla(0, 0%, 0%, .8);
+            }
+        }
+
+        @keyframes typing {
+            0% {
+                r: 3.5;
+                opacity: 1;
+            }
+
+            50% {
+                r: 2.8;
+                opacity: 0.3;
+            }
+
+            100% {
+                r: 3.5;
+                opacity: 1;
+            }
+        }
+
+        svg circle {
+            animation-name: typing;
+            animation-duration: 1s;
+            animation-iteration-count: infinite;
+        }
+
+        svg circle:nth-child(1) {
+            animation-delay: 0s;
+        }
+
+        svg circle:nth-child(2) {
+            animation-delay: 0.2s;
+        }
+
+        svg circle:nth-child(3) {
+            animation-delay: 0.4s;
+        }
+    </style>
+</head>
+<body>
+    <div>
+        <svg height="24" viewbox="0 0 24.5 7">
+            <g>
+                <circle cx="3.5" cy="3.5" r="3.5" fill="currentColor"></circle>
+                <circle cx="12.25" cy="3.5" r="3.5" fill="currentColor"></circle>
+                <circle cx="21" cy="3.5" r="3.5" fill="currentColor"></circle>
+            </g>
+        </svg>
+        <b>BigBoiTaj2005 (TajyPoo)</b> is typing...
+    </div>
+</body>
+</html>
