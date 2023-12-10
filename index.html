@@ -91,6 +91,21 @@
             animation-delay: 0.4s;
         }
     </style>
+    <script>
+        document.addEventListener("DOMContentLoaded", function() {
+            document.getElementById("name").innerHTML = "BigBoiTaj2005 (TajyPoo)";
+
+            setInterval(tectorinterval, 1000);
+
+            tajctor = 0
+
+            function tectorinterval() {
+                tajctor = tajctor == 0 ? 1 : 0;
+
+                document.getElementById("name").innerHTML = tajctor == 0 ? "BigBoiTaj2005 (TajyPoo)" : "Tector";
+            }
+        });
+    </script>
 </head>
 <body>
     <div>
@@ -101,7 +116,7 @@
                 <circle cx="21" cy="3.5" r="3.5" fill="currentColor"></circle>
             </g>
         </svg>
-        <b>BigBoiTaj2005 (TajyPoo)</b> is gatekeeping...
+        <b id="name">BigBoiTaj2005 (TajyPoo)</b> is gatekeeping...
     </div>
 </body>
 </html>
