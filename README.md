@@ -1,5 +1,5 @@
 Hello! Just a site setup for [Tector](https://twitter.com/t3ctor), nice to see you here, here's some links to put you in the correct spot!
-
+<img align="right" width="50%" height="50%" src="https://raw.githubusercontent.com/Tectors/Tectors/main/thumbnail.svg">
 ##### Twitter: [t3ctor on X](https://twitter.com/t3ctor)
 ##### Discord Server: [Chapter 1 Gateway](https://tajypoo.com/gateway)
 ##### Artstation: [t3ctor on Artstation](https://artstation.com/t3ctor)
