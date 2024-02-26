@@ -6,9 +6,6 @@ Hello! Just a site setup for [Tector](https://twitter.com/t3ctor), nice to see y
 
 ### PRICES
 [DM me](https://twitter.com/t3ctor) for more information regarding commissions.
-- Small Level: $450 ❤️
-- Medium Size Level: $650 🔥
-- Large Level: $950 👑
 
 Payment method is through PayPal, or a % of earnings. 💰
 > If you are interested, I looking forward to working with you! ❤️
